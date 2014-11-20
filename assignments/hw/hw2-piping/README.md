@@ -42,7 +42,7 @@ There are no changes to your project structure.
 
 Again, the tests you choose will be the most important part of your grade.  
 
-You should carefully consider: which redirections can be legally combined together, and which cannot? does order matter?  Also make sure to test that you are parsing the command correctly.
+You should carefully consider: which redirections can be legally combined together, and which cannot? Does order matter?  Also make sure to test that you are parsing the command correctly.
 
 **IMPORTANT:** If you are unsure if your test cases are sufficient, ask one of the instructors to review them *before the deadline*.
 
